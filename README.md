@@ -40,9 +40,20 @@ Please refer to this [blog post](https://www.inkoop.io/blog/how-to-get-azure-api
 ### Configuring your application
 
 1. Open your Data Load Editor and open the section **"--Config"**
-2. Set the first three variables with the values you created from the "Getting your credentials" section
-3. 
+2. Set the first three variables with the values you created from the **"Getting your credentials"** section
+3. Set the variable **DC_POST** with a POST REST connection name you might have on your environment. If you don´t have one, create a POST REST connection pointing to this [endpoint](https://postman-echo.com/post)
+4. Set the variable **DC_GET** with a GET REST connection name you might have on your environment. If you don´t have one, create a GET REST connection pointing to this [endpoint](https://postman-echo.com/get?test=123)
+5. Set the **DC_QVD** to a data connection name where the app would store the historical QVD´s
+6. Set the variable **OVERWRITE** to "1" if you want the app to always overwrite any QVD or "0" if you want to keep any stored QVD
+7. Set the variable **MONTHS** to a number indicating how many months you want to extract from the API. The app will load all previous QVD´s in the DC_QVD data connection
 
+### Mapping your fields
+
+We provide a simple way to map your fields values using a mapping function. To do that, adjust the "Mapping" section accordingly to your needs
+
+### Customizing your app
+
+Feel free to add more sheets or objects to this application. It is meant to be much more as a template than a final product
 
 ## Versions and Roadmap
 
