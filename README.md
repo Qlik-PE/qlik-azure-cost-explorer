@@ -1,5 +1,7 @@
 # Qlik Azure Cost Explorer 
 
+![Screenshot](img/screenshot.png?raw=true "Screenshot")
+
 ## License Summary
 
 This project is made available under a modified MIT license. See the [LICENSE](LICENSE) file.
