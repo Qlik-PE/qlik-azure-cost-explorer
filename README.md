@@ -22,7 +22,7 @@ This is a 100% pure Qlik Sense app that can be used both on SaaS or in a on-prem
 
 ### Downloading the app
 
-1. Open this [link](qvf/file)
+1. Open this [link](qvf/Azure%20Cost%20Explorer%20-%20Github.qvf)
 2. Click on the button "Download" on your right side
 3. Save the file on your computer
 4. Import your application in your Qlik Sense instance (on-premise or SaaS)
