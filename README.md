@@ -16,7 +16,7 @@ This project is made available under a modified MIT license. See the [LICENSE](L
 
 The purpose of this script is use the [Azure Billing REST API](https://docs.microsoft.com/en-us/rest/api/billing/) endpoint to retrieve cost data about one (or more) Azure subscriptions.
 
-This is a 100% pure Qlik Sense app that can be used both on SaaS or in a on-premise environment
+This is a 100% Qlik Sense app that can be used both on SaaS or in a on-premise environment
 
 ## Installation / Configuration
 
