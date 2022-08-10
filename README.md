@@ -37,7 +37,7 @@ Please follow the procedures below if you are not familiar with importing Qlik S
 
 ### Getting your credentials
 
-Please refer to this [blog post](https://www.inkoop.io/blog/how-to-get-azure-api-credentials/) as a tutorial to get your tenant_id, client_id and client_secret that will allow the Azure Cost Explorer to connect to [Azure Billing REST API](https://docs.microsoft.com/en-us/rest/api/billing/)
+Please refer to this [blog post](https://www.inkoop.io/blog/how-to-get-azure-api-credentials/) and this [Azure documentation](https://www.inkoop.io/blog/how-to-get-azure-api-credentials/) as a tutorial to get your tenant_id, client_id and client_secret that will allow the Azure Cost Explorer to connect to [Azure Billing REST API](https://docs.microsoft.com/en-us/rest/api/billing/)
 
 ### Configuring your application
 
